@@ -3,6 +3,7 @@ package Formularios;
 /**
  *
  * @author Ignacio Padilla Huerta
+ * @Coloraborador Angel Sánchez Huerta
  */
 
 import java.awt.Image;
@@ -43,7 +44,7 @@ public class Frm_Login extends javax.swing.JFrame {
         }
         
         else{
-            JOptionPane.showMessageDialog(null, "Datos incorrectos.");
+            JOptionPane.showMessageDialog(null, "Datos incorrectos. Intente nuevamente por favor");
             txt_usuario.setText("");
             txt_clave.setText("");
             txt_usuario.requestFocus();

@@ -3,6 +3,7 @@ package Formularios;
 /**
  *
  * @author Ignacio Padilla Huerta
+ * @Coloraborador Angel Sánchez Huerta
  */
 
 import java.awt.Image;
